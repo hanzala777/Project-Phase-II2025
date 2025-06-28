@@ -1,0 +1,188 @@
+{
+    "college_db": {
+        "Courses": {
+            "columns": {
+                "CourseCode": {"type": "VARCHAR(10)", "constraints": ["PRIMARY KEY"]},
+                "CourseName": {"type": "STRING(20)", "constraints": ["NOT NULL"]},
+                "Credits": {"type": "INTEGER", "constraints": ["NOT NULL"]},
+                "FacultyID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Faculty(FacultyID)"]},
+                "DepartmentID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Departments(DepartmentID)"]}
+            }
+        },
+        "Departments": {
+            "columns": {
+                "DepartmentID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "DepartmentName": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "HODId": {"type": "INTEGER(3)", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Enrollments": {
+            "columns": {
+                "EnrollmentID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "StudentID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Students(StudentID)"]},
+                "CourseID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Courses(CourseID)"]},
+                "Grade": {"type": "STRING(1)", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Faculty": {
+            "columns": {
+                "FacultyID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "FacultyName": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Email": {"type": "VARCHAR(50)", "constraints": ["NOT NULL"]},
+                "PhoneNo": {"type": "INTEGER(10)", "constraints": ["NOT NULL"]},
+                "Designation": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "DepartmentID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Departments(DepartmentID)"]}
+            }
+        },
+        "Students": {
+            "columns": {
+                "StudentID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "DOB": {"type": "DATE", "constraints": ["NOT NULL"]},
+                "Email": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "PhoneNo": {"type": "INTEGER(10)", "constraints": ["NOT NULL"]},
+                "DepartmentID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Departments(DepartmentID)"]},
+                "EnrollmentYear": {"type": "INTEGER(4)", "constraints": ["NOT NULL"]}
+            }
+        }
+    },
+    "retail_db": {
+        "Customers": {
+            "columns": {
+                "CustomerID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Email": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Phone": {"type": "VARCHAR(15)", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Orders": {
+            "columns": {
+                "OrderID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "CustomerID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Customers(CustomerID)"]},
+                "OrderDate": {"type": "DATE", "constraints": ["NOT NULL"]}
+            }
+        }
+    },
+    "company_db": {
+        "Employees": {
+            "columns": {
+                "EmployeeID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Email": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "DepartmentID": {"type": "INTEGER", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Departments": {
+            "columns": {
+                "DepartmentID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]}
+            }
+        }
+    },
+    "farming_db": {
+        "Farmer": {
+            "columns": {
+                "FarmerID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Region": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Phone": {"type": "VARCHAR(15)", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Crop": {
+            "columns": {
+                "CropID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "CropName": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Season": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "SoilType": {"type": "STRING", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Farm": {
+            "columns": {
+                "FarmID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "FarmerID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Farmer(FarmerID)"]},
+                "AreaInAcres": {"type": "FLOAT", "constraints": ["NOT NULL"]},
+                "Location": {"type": "STRING", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Harvest": {
+            "columns": {
+                "HarvestID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "FarmID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Farm(FarmID)"]},
+                "CropID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Crop(CropID)"]},
+                "QuantityKG": {"type": "FLOAT", "constraints": ["NOT NULL"]},
+                "HarvestDate": {"type": "DATE", "constraints": ["NOT NULL"]}
+            }
+        }
+    },
+    "hospital_db": {
+        "Patient": {
+            "columns": {
+                "PatientID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "DOB": {"type": "DATE", "constraints": ["NOT NULL"]},
+                "Gender": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Phone": {"type": "VARCHAR(15)", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Doctor": {
+            "columns": {
+                "DoctorID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Specialization": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Email": {"type": "STRING", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Appointment": {
+            "columns": {
+                "AppointmentID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "PatientID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Patient(PatientID)"]},
+                "DoctorID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Doctor(DoctorID)"]},
+                "AppointmentDate": {"type": "DATE", "constraints": ["NOT NULL"]},
+                "Reason": {"type": "STRING", "constraints": ["NOT NULL"]}
+            }
+        },
+        "MedicalRecord": {
+            "columns": {
+                "RecordID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "PatientID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Patient(PatientID)"]},
+                "Diagnosis": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Prescription": {"type": "STRING", "constraints": []},
+                "DateRecorded": {"type": "DATE", "constraints": ["NOT NULL"]}
+            }
+        }
+    },
+    "space_research_db": {
+        "Satellite": {
+            "columns": {
+                "SatelliteID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "LaunchDate": {"type": "DATE", "constraints": ["NOT NULL"]},
+                "Status": {"type": "STRING", "constraints": ["NOT NULL"]}
+            }
+        },
+        "Mission": {
+            "columns": {
+                "MissionID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Objective": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "StartDate": {"type": "DATE", "constraints": ["NOT NULL"]},
+                "EndDate": {"type": "DATE", "constraints": []}
+            }
+        },
+        "Astronaut": {
+            "columns": {
+                "AstronautID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "Name": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "Country": {"type": "STRING", "constraints": ["NOT NULL"]},
+                "MissionsCount": {"type": "INTEGER", "constraints": ["NOT NULL"]}
+            }
+        },
+        "MissionAssignment": {
+            "columns": {
+                "AssignmentID": {"type": "INTEGER", "constraints": ["PRIMARY KEY"]},
+                "MissionID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Mission(MissionID)"]},
+                "AstronautID": {"type": "INTEGER", "constraints": ["NOT NULL", "FOREIGN KEY -> Astronaut(AstronautID)"]}
+            }
+        }
+    }
+}

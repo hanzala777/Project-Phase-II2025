@@ -1,0 +1,4412 @@
+[
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Tables like 'Astronaut' in 'space_research_db' are essential components of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Tables like 'Mission' in 'space_research_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'Mission' in 'space_research_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The structure of the 'Astronaut' table in 'space_research_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Each row in 'Satellite' of 'space_research_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Tables like 'Astronaut' in 'space_research_db' are essential components of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'Satellite' in 'space_research_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'Satellite' is a valid relation in the relational schema of the 'space_research_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'MissionAssignment' is a valid relation in the relational schema of the 'space_research_db' database.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Each row in 'MissionAssignment' of 'space_research_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'MissionAssignment' is a valid relation in the relational schema of the 'space_research_db' database.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Each row in 'MissionAssignment' of 'space_research_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "The structure of the 'MissionAssignment' table in 'space_research_db' follows the principles of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'Mission' is a valid relation in the relational schema of the 'space_research_db' database.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Each row in 'Mission' of 'space_research_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Doctor' is a valid relation in the relational schema of the 'hospital_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Each row in 'Patient' of 'hospital_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Each row in 'Appointment' of 'hospital_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Doctor' in 'hospital_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Patient' is a valid relation in the relational schema of the 'hospital_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'Patient' in 'hospital_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'Patient' in 'hospital_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "The structure of the 'Doctor' table in 'hospital_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "The structure of the 'Doctor' table in 'hospital_db' follows the principles of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Tables like 'MedicalRecord' in 'hospital_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "The structure of the 'Patient' table in 'hospital_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'Doctor' in 'hospital_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Each row in 'Doctor' of 'hospital_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "The structure of the 'MedicalRecord' table in 'hospital_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Each row in 'Doctor' of 'hospital_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'Harvest' is a valid relation in the relational schema of the 'farming_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Each row in 'Harvest' of 'farming_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'Crop' is a valid relation in the relational schema of the 'farming_db' database.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Each row in 'Farmer' of 'farming_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Each row in 'Crop' of 'farming_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "The structure of the 'Crop' table in 'farming_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Each row in 'Farmer' of 'farming_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "The structure of the 'Farmer' table in 'farming_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Tables like 'Farm' in 'farming_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Harvest' is a valid relation in the relational schema of the 'farming_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "The structure of the 'Crop' table in 'farming_db' follows the principles of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Tables like 'Crop' in 'farming_db' are essential components of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Harvest' in 'farming_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Tables like 'Farmer' in 'farming_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "The structure of the 'Farm' table in 'farming_db' follows the principles of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Each row in 'Employees' of 'company_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Employees' in 'company_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Departments' is a valid relation in the relational schema of the 'company_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Each row in 'Employees' of 'company_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Tables like 'Employees' in 'company_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Employees' in 'company_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "The structure of the 'Employees' table in 'company_db' follows the principles of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "The structure of the 'Employees' table in 'company_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Tables like 'Employees' in 'company_db' are essential components of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Employees' is a valid relation in the relational schema of the 'company_db' database.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'Departments' in 'company_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Each row in 'Departments' of 'company_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'Departments' in 'company_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Each row in 'Employees' of 'company_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "The structure of the 'Employees' table in 'company_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'Orders' in 'retail_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Tables like 'Customers' in 'retail_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "The structure of the 'Customers' table in 'retail_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "The structure of the 'Orders' table in 'retail_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Each row in 'Customers' of 'retail_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Customers' is a valid relation in the relational schema of the 'retail_db' database.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Each row in 'Orders' of 'retail_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "The structure of the 'Customers' table in 'retail_db' follows the principles of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Orders' in 'retail_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Orders' is a valid relation in the relational schema of the 'retail_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Tables like 'Customers' in 'retail_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Tables like 'Orders' in 'retail_db' are essential components of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "The structure of the 'Orders' table in 'retail_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'Orders' in 'retail_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Tables like 'Orders' in 'retail_db' are essential components of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'Students' in 'college_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "The structure of the 'Enrollments' table in 'college_db' follows the principles of a relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'Departments' in 'college_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'Departments' is a valid relation in the relational schema of the 'college_db' database.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "The structure of the 'Students' table in 'college_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Departments' is a valid relation in the relational schema of the 'college_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Enrollments' is a valid relation in the relational schema of the 'college_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Faculty' is a valid relation in the relational schema of the 'college_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Departments' is a valid relation in the relational schema of the 'college_db' database.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Courses' in 'college_db' defines a well-structured relation with named attributes and consistent data types.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Each row in 'Courses' of 'college_db' represents a tuple conforming to the relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "The structure of the 'Enrollments' table in 'college_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "The structure of the 'Students' table in 'college_db' follows the principles of a relational schema.",
+        "answer": false
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Each row in 'Faculty' of 'college_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Relational Schema",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Each row in 'Departments' of 'college_db' represents a tuple conforming to the relational schema.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'AstronautID' in 'Astronaut' of 'space_research_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The 'AssignmentID' column in 'MissionAssignment' of 'space_research_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The 'MissionsCount' column in 'Astronaut' of 'space_research_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'LaunchDate' in 'Satellite' of 'space_research_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Only values of the correct type can be stored in 'Name' in 'Astronaut' of 'space_research_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Only values of the correct type can be stored in 'LaunchDate' in 'Satellite' of 'space_research_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Only values of the correct type can be stored in 'Status' in 'Satellite' of 'space_research_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Only values of the correct type can be stored in 'AstronautID' in 'MissionAssignment' of 'space_research_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Domain constraints applied to 'MissionID' in 'MissionAssignment' of 'space_research_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Domain constraints applied to 'Name' in 'Satellite' of 'space_research_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Domain constraints applied to 'Name' in 'Satellite' of 'space_research_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "The 'Status' column in 'Satellite' of 'space_research_db' restricts values to a specific domain type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Only values of the correct type can be stored in 'EndDate' in 'Mission' of 'space_research_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Domain constraints applied to 'MissionID' in 'MissionAssignment' of 'space_research_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'LaunchDate' in 'Satellite' of 'space_research_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Domain constraints applied to 'Phone' in 'Patient' of 'hospital_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "The 'PatientID' column in 'MedicalRecord' of 'hospital_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Specialization' in 'Doctor' of 'hospital_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Reason' in 'Appointment' of 'hospital_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Domain constraints applied to 'DoctorID' in 'Doctor' of 'hospital_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Domain constraints applied to 'DoctorID' in 'Appointment' of 'hospital_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'RecordID' in 'MedicalRecord' of 'hospital_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "The 'Name' column in 'Doctor' of 'hospital_db' restricts values to a specific domain type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'AppointmentDate' in 'Appointment' of 'hospital_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Only values of the correct type can be stored in 'AppointmentDate' in 'Appointment' of 'hospital_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Only values of the correct type can be stored in 'Specialization' in 'Doctor' of 'hospital_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Only values of the correct type can be stored in 'DoctorID' in 'Doctor' of 'hospital_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'AppointmentDate' in 'Appointment' of 'hospital_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'Phone' in 'Patient' of 'hospital_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'DoctorID' in 'Appointment' of 'hospital_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Domain constraints applied to 'AreaInAcres' in 'Farm' of 'farming_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "The 'FarmID' column in 'Harvest' of 'farming_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Only values of the correct type can be stored in 'Region' in 'Farmer' of 'farming_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "The 'AreaInAcres' column in 'Farm' of 'farming_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Domain constraints applied to 'Season' in 'Crop' of 'farming_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Domain constraints applied to 'HarvestDate' in 'Harvest' of 'farming_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'CropID' in 'Harvest' of 'farming_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'CropName' in 'Crop' of 'farming_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Only values of the correct type can be stored in 'CropName' in 'Crop' of 'farming_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'FarmID' in 'Harvest' of 'farming_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Season' in 'Crop' of 'farming_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Name' in 'Farmer' of 'farming_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Only values of the correct type can be stored in 'Location' in 'Farm' of 'farming_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'CropID' in 'Crop' of 'farming_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Domain constraints applied to 'SoilType' in 'Crop' of 'farming_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Domain constraints applied to 'DepartmentID' in 'Employees' of 'company_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "The 'EmployeeID' column in 'Employees' of 'company_db' restricts values to a specific domain type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Email' in 'Employees' of 'company_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "The 'Email' column in 'Employees' of 'company_db' restricts values to a specific domain type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Domain constraints applied to 'Name' in 'Departments' of 'company_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "The 'Name' column in 'Employees' of 'company_db' restricts values to a specific domain type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "The 'EmployeeID' column in 'Employees' of 'company_db' restricts values to a specific domain type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Departments' of 'company_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'EmployeeID' in 'Employees' of 'company_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'EmployeeID' in 'Employees' of 'company_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'EmployeeID' in 'Employees' of 'company_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'Name' in 'Departments' of 'company_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'EmployeeID' in 'Employees' of 'company_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Domain constraints applied to 'Name' in 'Employees' of 'company_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Domain constraints applied to 'Email' in 'Employees' of 'company_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "The 'Email' column in 'Customers' of 'retail_db' restricts values to a specific domain type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "The 'CustomerID' column in 'Customers' of 'retail_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "The 'OrderID' column in 'Orders' of 'retail_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "The 'OrderID' column in 'Orders' of 'retail_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Domain constraints applied to 'CustomerID' in 'Orders' of 'retail_db' prevent invalid data types.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Domain constraints applied to 'OrderDate' in 'Orders' of 'retail_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Email' in 'Customers' of 'retail_db' has domain constraints defined by its declared data type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Phone' in 'Customers' of 'retail_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Phone' in 'Customers' of 'retail_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'CustomerID' in 'Orders' of 'retail_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Only values of the correct type can be stored in 'Email' in 'Customers' of 'retail_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'Phone' in 'Customers' of 'retail_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'Email' in 'Customers' of 'retail_db' has domain constraints defined by its declared data type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'CustomerID' in 'Customers' of 'retail_db' enforces domain rules to ensure data validity.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'OrderDate' in 'Orders' of 'retail_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'CourseCode' in 'Courses' of 'college_db' has domain constraints defined by its declared data type.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Only values of the correct type can be stored in 'PhoneNo' in 'Faculty' of 'college_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Domain constraints applied to 'Grade' in 'Enrollments' of 'college_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "The 'DepartmentID' column in 'Departments' of 'college_db' restricts values to a specific domain type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'StudentID' in 'Students' of 'college_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'CourseName' in 'Courses' of 'college_db' has domain constraints defined by its declared data type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Only values of the correct type can be stored in 'StudentID' in 'Enrollments' of 'college_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'CourseCode' in 'Courses' of 'college_db' enforces domain rules to ensure data validity.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Only values of the correct type can be stored in 'DepartmentName' in 'Departments' of 'college_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Only values of the correct type can be stored in 'FacultyID' in 'Faculty' of 'college_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'StudentID' in 'Enrollments' of 'college_db' has domain constraints defined by its declared data type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Only values of the correct type can be stored in 'PhoneNo' in 'Students' of 'college_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'Credits' in 'Courses' of 'college_db' has domain constraints defined by its declared data type.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Domain constraints applied to 'CourseCode' in 'Courses' of 'college_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Domain Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Domain constraints applied to 'PhoneNo' in 'Faculty' of 'college_db' prevent invalid data types.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Key constraints in 'Satellite' of 'space_research_db' ensure that values in 'SatelliteID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'AstronautID' is part of a key constraint in 'Astronaut' of 'space_research_db' and must be unique.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'Satellite' in 'space_research_db' cannot have duplicate values in 'LaunchDate' due to key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The integrity of 'Satellite' in 'space_research_db' relies on key constraints involving 'Name'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'AssignmentID' is part of a key constraint in 'MissionAssignment' of 'space_research_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'AssignmentID' is part of a key constraint in 'MissionAssignment' of 'space_research_db' and must be unique.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Key constraints in 'Astronaut' of 'space_research_db' ensure that values in 'Name' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'Satellite' in 'space_research_db' cannot have duplicate values in 'LaunchDate' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Key constraints in 'space_research_db' enforce uniqueness for columns like 'EndDate' in 'Mission'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "The integrity of 'Astronaut' in 'space_research_db' relies on key constraints involving 'MissionsCount'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Key constraints in 'Astronaut' of 'space_research_db' ensure that values in 'Name' uniquely identify tuples.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Key constraints in 'space_research_db' enforce uniqueness for columns like 'SatelliteID' in 'Satellite'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Key constraints in 'space_research_db' enforce uniqueness for columns like 'MissionID' in 'MissionAssignment'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'Name' is part of a key constraint in 'Satellite' of 'space_research_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Key constraints in 'MissionAssignment' of 'space_research_db' ensure that values in 'AstronautID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Key constraints in 'Patient' of 'hospital_db' ensure that values in 'Gender' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'MedicalRecord' in 'hospital_db' cannot have duplicate values in 'Diagnosis' due to key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Key constraints in 'hospital_db' enforce uniqueness for columns like 'Gender' in 'Patient'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Key constraints in 'Appointment' of 'hospital_db' ensure that values in 'PatientID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Key constraints in 'Patient' of 'hospital_db' ensure that values in 'PatientID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'PatientID' is part of a key constraint in 'Appointment' of 'hospital_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Key constraints in 'Patient' of 'hospital_db' ensure that values in 'PatientID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'PatientID' is part of a key constraint in 'MedicalRecord' of 'hospital_db' and must be unique.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "The integrity of 'Patient' in 'hospital_db' relies on key constraints involving 'PatientID'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "The integrity of 'Doctor' in 'hospital_db' relies on key constraints involving 'Name'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Key constraints in 'Doctor' of 'hospital_db' ensure that values in 'Email' uniquely identify tuples.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'Phone' is part of a key constraint in 'Patient' of 'hospital_db' and must be unique.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Key constraints in 'hospital_db' enforce uniqueness for columns like 'AppointmentDate' in 'Appointment'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'Email' is part of a key constraint in 'Doctor' of 'hospital_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'DoctorID' is part of a key constraint in 'Doctor' of 'hospital_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Key constraints in 'Harvest' of 'farming_db' ensure that values in 'HarvestID' uniquely identify tuples.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Key constraints in 'Crop' of 'farming_db' ensure that values in 'SoilType' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'HarvestDate' is part of a key constraint in 'Harvest' of 'farming_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'HarvestDate' is part of a key constraint in 'Harvest' of 'farming_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'Farm' in 'farming_db' cannot have duplicate values in 'FarmerID' due to key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Farmer' in 'farming_db' cannot have duplicate values in 'Region' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Region' is part of a key constraint in 'Farmer' of 'farming_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Key constraints in 'farming_db' enforce uniqueness for columns like 'Region' in 'Farmer'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Key constraints in 'Crop' of 'farming_db' ensure that values in 'CropID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "The integrity of 'Farm' in 'farming_db' relies on key constraints involving 'FarmerID'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Harvest' in 'farming_db' cannot have duplicate values in 'QuantityKG' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Key constraints in 'Farmer' of 'farming_db' ensure that values in 'FarmerID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Key constraints in 'Crop' of 'farming_db' ensure that values in 'CropName' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Crop' in 'farming_db' cannot have duplicate values in 'CropID' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Key constraints in 'Harvest' of 'farming_db' ensure that values in 'QuantityKG' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Key constraints in 'company_db' enforce uniqueness for columns like 'DepartmentID' in 'Employees'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Key constraints in 'company_db' enforce uniqueness for columns like 'Name' in 'Departments'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Key constraints in 'company_db' enforce uniqueness for columns like 'DepartmentID' in 'Departments'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Departments' in 'company_db' cannot have duplicate values in 'DepartmentID' due to key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Departments' in 'company_db' cannot have duplicate values in 'Name' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Key constraints in 'Employees' of 'company_db' ensure that values in 'Name' uniquely identify tuples.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Key constraints in 'company_db' enforce uniqueness for columns like 'DepartmentID' in 'Employees'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Key constraints in 'company_db' enforce uniqueness for columns like 'Name' in 'Employees'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Employees' in 'company_db' cannot have duplicate values in 'EmployeeID' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Employees' in 'company_db' cannot have duplicate values in 'Email' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Key constraints in 'company_db' enforce uniqueness for columns like 'Name' in 'Employees'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "The integrity of 'Departments' in 'company_db' relies on key constraints involving 'DepartmentID'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Key constraints in 'company_db' enforce uniqueness for columns like 'DepartmentID' in 'Employees'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "The integrity of 'Departments' in 'company_db' relies on key constraints involving 'DepartmentID'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'Departments' in 'company_db' cannot have duplicate values in 'DepartmentID' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'retail_db' enforce uniqueness for columns like 'OrderID' in 'Orders'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "The integrity of 'Orders' in 'retail_db' relies on key constraints involving 'CustomerID'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'Orders' of 'retail_db' ensure that values in 'OrderDate' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'Customers' in 'retail_db' cannot have duplicate values in 'Email' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'retail_db' enforce uniqueness for columns like 'OrderDate' in 'Orders'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Orders' in 'retail_db' cannot have duplicate values in 'CustomerID' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'Orders' of 'retail_db' ensure that values in 'CustomerID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'Orders' of 'retail_db' ensure that values in 'OrderDate' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'retail_db' enforce uniqueness for columns like 'Name' in 'Customers'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "The integrity of 'Customers' in 'retail_db' relies on key constraints involving 'CustomerID'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'retail_db' enforce uniqueness for columns like 'Name' in 'Customers'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Key constraints in 'Customers' of 'retail_db' ensure that values in 'Email' uniquely identify tuples.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'OrderID' is part of a key constraint in 'Orders' of 'retail_db' and must be unique.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'Orders' in 'retail_db' cannot have duplicate values in 'CustomerID' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "The integrity of 'Customers' in 'retail_db' relies on key constraints involving 'CustomerID'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "The integrity of 'Courses' in 'college_db' relies on key constraints involving 'FacultyID'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Key constraints in 'college_db' enforce uniqueness for columns like 'PhoneNo' in 'Faculty'.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Key constraints in 'Students' of 'college_db' ensure that values in 'Email' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "The integrity of 'Departments' in 'college_db' relies on key constraints involving 'DepartmentID'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Key constraints in 'Faculty' of 'college_db' ensure that values in 'DepartmentID' uniquely identify tuples.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'HODId' is part of a key constraint in 'Departments' of 'college_db' and must be unique.",
+        "answer": true
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "The integrity of 'Students' in 'college_db' relies on key constraints involving 'DOB'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Email' is part of a key constraint in 'Faculty' of 'college_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Students' in 'college_db' cannot have duplicate values in 'Email' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Key constraints in 'college_db' enforce uniqueness for columns like 'CourseName' in 'Courses'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'Courses' in 'college_db' cannot have duplicate values in 'Credits' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'StudentID' is part of a key constraint in 'Students' of 'college_db' and must be unique.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'Departments' in 'college_db' cannot have duplicate values in 'DepartmentName' due to key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "The integrity of 'Enrollments' in 'college_db' relies on key constraints involving 'CourseID'.",
+        "answer": false
+    },
+    {
+        "topic": "Key Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'Departments' in 'college_db' cannot have duplicate values in 'DepartmentID' due to key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Only one primary key exists in 'Mission' of 'space_research_db', which could be 'MissionID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Only one primary key exists in 'Mission' of 'space_research_db', which could be 'StartDate'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Primary keys in 'Mission' of 'space_research_db' are selected from available candidate keys like 'StartDate'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Primary keys in 'Astronaut' of 'space_research_db' are selected from available candidate keys like 'AstronautID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Primary keys in 'Mission' of 'space_research_db' are selected from available candidate keys like 'MissionID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Only one primary key exists in 'Mission' of 'space_research_db', which could be 'MissionID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'SatelliteID' is a minimal unique identifier (candidate key) in 'Satellite' of 'space_research_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'AssignmentID' qualifies as a candidate key in 'MissionAssignment' of 'space_research_db' due to its uniqueness.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'Name' is a minimal unique identifier (candidate key) in 'Mission' of 'space_research_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'AstronautID' in 'Astronaut' of 'space_research_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'Name' in 'Mission' of 'space_research_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Only one primary key exists in 'MissionAssignment' of 'space_research_db', which could be 'AssignmentID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'AstronautID' is a minimal unique identifier (candidate key) in 'MissionAssignment' of 'space_research_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Primary keys in 'Satellite' of 'space_research_db' are selected from available candidate keys like 'SatelliteID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'StartDate' is a minimal unique identifier (candidate key) in 'Mission' of 'space_research_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Primary keys in 'MedicalRecord' of 'hospital_db' are selected from available candidate keys like 'PatientID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Phone' qualifies as a candidate key in 'Patient' of 'hospital_db' due to its uniqueness.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'PatientID' qualifies as a candidate key in 'Appointment' of 'hospital_db' due to its uniqueness.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Primary keys in 'Doctor' of 'hospital_db' are selected from available candidate keys like 'DoctorID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'PatientID' is a minimal unique identifier (candidate key) in 'MedicalRecord' of 'hospital_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'RecordID' is a minimal unique identifier (candidate key) in 'MedicalRecord' of 'hospital_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'AppointmentID' is a minimal unique identifier (candidate key) in 'Appointment' of 'hospital_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'Reason' in 'Appointment' of 'hospital_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Only one primary key exists in 'Doctor' of 'hospital_db', which could be 'DoctorID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Only one primary key exists in 'Doctor' of 'hospital_db', which could be 'DoctorID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'PatientID' is a minimal unique identifier (candidate key) in 'MedicalRecord' of 'hospital_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Only one primary key exists in 'Appointment' of 'hospital_db', which could be 'PatientID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Only one primary key exists in 'MedicalRecord' of 'hospital_db', which could be 'PatientID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'AppointmentDate' qualifies as a candidate key in 'Appointment' of 'hospital_db' due to its uniqueness.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'RecordID' in 'MedicalRecord' of 'hospital_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'HarvestID' is a minimal unique identifier (candidate key) in 'Harvest' of 'farming_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'FarmerID' is a minimal unique identifier (candidate key) in 'Farm' of 'farming_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'CropID' in 'Harvest' of 'farming_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Primary keys in 'Farm' of 'farming_db' are selected from available candidate keys like 'FarmerID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'FarmerID' is a minimal unique identifier (candidate key) in 'Farm' of 'farming_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'FarmerID' qualifies as a candidate key in 'Farm' of 'farming_db' due to its uniqueness.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'CropName' in 'Crop' of 'farming_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Location' qualifies as a candidate key in 'Farm' of 'farming_db' due to its uniqueness.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Only one primary key exists in 'Farm' of 'farming_db', which could be 'AreaInAcres'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Only one primary key exists in 'Farmer' of 'farming_db', which could be 'Phone'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Only one primary key exists in 'Farmer' of 'farming_db', which could be 'FarmerID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Only one primary key exists in 'Crop' of 'farming_db', which could be 'CropName'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'FarmerID' in 'Farm' of 'farming_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'FarmID' in 'Harvest' of 'farming_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Phone' is a minimal unique identifier (candidate key) in 'Farmer' of 'farming_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'EmployeeID' qualifies as a candidate key in 'Employees' of 'company_db' due to its uniqueness.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Departments' of 'company_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Only one primary key exists in 'Employees' of 'company_db', which could be 'Email'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Name' qualifies as a candidate key in 'Departments' of 'company_db' due to its uniqueness.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Name' in 'Departments' of 'company_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Only one primary key exists in 'Departments' of 'company_db', which could be 'Name'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Primary keys in 'Employees' of 'company_db' are selected from available candidate keys like 'Email'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Email' is a minimal unique identifier (candidate key) in 'Employees' of 'company_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Name' in 'Departments' of 'company_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Name' in 'Departments' of 'company_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Primary keys in 'Departments' of 'company_db' are selected from available candidate keys like 'Name'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'Name' in 'Employees' of 'company_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'DepartmentID' qualifies as a candidate key in 'Departments' of 'company_db' due to its uniqueness.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Primary keys in 'Employees' of 'company_db' are selected from available candidate keys like 'DepartmentID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Only one primary key exists in 'Employees' of 'company_db', which could be 'EmployeeID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Only one primary key exists in 'Orders' of 'retail_db', which could be 'OrderID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Primary keys in 'Orders' of 'retail_db' are selected from available candidate keys like 'OrderDate'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'Phone' qualifies as a candidate key in 'Customers' of 'retail_db' due to its uniqueness.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Only one primary key exists in 'Customers' of 'retail_db', which could be 'CustomerID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'Phone' in 'Customers' of 'retail_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Only one primary key exists in 'Customers' of 'retail_db', which could be 'Phone'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Primary keys in 'Customers' of 'retail_db' are selected from available candidate keys like 'CustomerID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Primary keys in 'Orders' of 'retail_db' are selected from available candidate keys like 'OrderDate'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Only one primary key exists in 'Orders' of 'retail_db', which could be 'OrderID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'CustomerID' is a minimal unique identifier (candidate key) in 'Orders' of 'retail_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Only one primary key exists in 'Orders' of 'retail_db', which could be 'OrderDate'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'OrderDate' is a minimal unique identifier (candidate key) in 'Orders' of 'retail_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'OrderID' in 'Orders' of 'retail_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Only one primary key exists in 'Customers' of 'retail_db', which could be 'Phone'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'Phone' in 'Customers' of 'retail_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Only one primary key exists in 'Students' of 'college_db', which could be 'Email'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Only one primary key exists in 'Students' of 'college_db', which could be 'DepartmentID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'HODId' is a minimal unique identifier (candidate key) in 'Departments' of 'college_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'Name' in 'Students' of 'college_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Only one primary key exists in 'Departments' of 'college_db', which could be 'DepartmentID'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'EnrollmentID' is a minimal unique identifier (candidate key) in 'Enrollments' of 'college_db'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'FacultyID' in 'Courses' of 'college_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Primary keys in 'Students' of 'college_db' are selected from available candidate keys like 'PhoneNo'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'DepartmentID' is a minimal unique identifier (candidate key) in 'Courses' of 'college_db'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Primary keys in 'Enrollments' of 'college_db' are selected from available candidate keys like 'Grade'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Only one primary key exists in 'Enrollments' of 'college_db', which could be 'CourseID'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Primary keys in 'Students' of 'college_db' are selected from available candidate keys like 'Email'.",
+        "answer": false
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'PhoneNo' in 'Faculty' of 'college_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Primary keys in 'Departments' of 'college_db' are selected from available candidate keys like 'HODId'.",
+        "answer": true
+    },
+    {
+        "topic": "Candidate Keys and Primary Key",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'CourseName' in 'Courses' of 'college_db' is chosen as a primary key from multiple candidate keys.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The foreign key 'AstronautID' in 'MissionAssignment' of 'space_research_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The foreign key 'Country' in 'Astronaut' of 'space_research_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Referential integrity in 'space_research_db' is enforced through foreign keys like 'Objective' in 'Mission'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'Country' in 'Astronaut' of 'space_research_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Referential integrity in 'space_research_db' is enforced through foreign keys like 'MissionsCount' in 'Astronaut'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Referential integrity in 'space_research_db' is enforced through foreign keys like 'AssignmentID' in 'MissionAssignment'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "The foreign key 'Name' in 'Mission' of 'space_research_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "The foreign key 'Country' in 'Astronaut' of 'space_research_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Integrity between relations in 'space_research_db' is upheld by foreign key constraints on 'Objective' in 'Mission'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "The foreign key 'SatelliteID' in 'Satellite' of 'space_research_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "The foreign key 'AstronautID' in 'MissionAssignment' of 'space_research_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "The foreign key 'Status' in 'Satellite' of 'space_research_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'AstronautID' in 'MissionAssignment' of 'space_research_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'Name' in 'Mission' of 'space_research_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "A valid value in 'AstronautID' of 'MissionAssignment' in 'space_research_db' must exist in the referenced table.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'RecordID' in 'MedicalRecord' of 'hospital_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Integrity between relations in 'hospital_db' is upheld by foreign key constraints on 'AppointmentDate' in 'Appointment'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Referential integrity in 'hospital_db' is enforced through foreign keys like 'Name' in 'Patient'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Referential integrity in 'hospital_db' is enforced through foreign keys like 'Name' in 'Doctor'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Referential integrity in 'hospital_db' is enforced through foreign keys like 'AppointmentDate' in 'Appointment'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "The foreign key 'DOB' in 'Patient' of 'hospital_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Referential integrity in 'hospital_db' is enforced through foreign keys like 'DOB' in 'Patient'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Integrity between relations in 'hospital_db' is upheld by foreign key constraints on 'DoctorID' in 'Appointment'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Referential integrity in 'hospital_db' is enforced through foreign keys like 'PatientID' in 'Patient'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "A valid value in 'AppointmentDate' of 'Appointment' in 'hospital_db' must exist in the referenced table.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "A valid value in 'RecordID' of 'MedicalRecord' in 'hospital_db' must exist in the referenced table.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "The foreign key 'PatientID' in 'MedicalRecord' of 'hospital_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "A valid value in 'Name' of 'Doctor' in 'hospital_db' must exist in the referenced table.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Integrity between relations in 'hospital_db' is upheld by foreign key constraints on 'Phone' in 'Patient'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Referential integrity in 'hospital_db' is enforced through foreign keys like 'DOB' in 'Patient'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "The foreign key 'CropName' in 'Crop' of 'farming_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Integrity between relations in 'farming_db' is upheld by foreign key constraints on 'CropID' in 'Harvest'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'CropID' in 'Harvest' of 'farming_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "A valid value in 'FarmerID' of 'Farm' in 'farming_db' must exist in the referenced table.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Referential integrity in 'farming_db' is enforced through foreign keys like 'CropID' in 'Crop'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Phone' in 'Farmer' of 'farming_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "The foreign key 'FarmerID' in 'Farm' of 'farming_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Region' in 'Farmer' of 'farming_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Referential integrity in 'farming_db' is enforced through foreign keys like 'Season' in 'Crop'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "The foreign key 'HarvestDate' in 'Harvest' of 'farming_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "A valid value in 'CropName' of 'Crop' in 'farming_db' must exist in the referenced table.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "A valid value in 'HarvestDate' of 'Harvest' in 'farming_db' must exist in the referenced table.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Integrity between relations in 'farming_db' is upheld by foreign key constraints on 'FarmerID' in 'Farm'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "The foreign key 'Location' in 'Farm' of 'farming_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Referential integrity in 'farming_db' is enforced through foreign keys like 'HarvestDate' in 'Harvest'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Employees' of 'company_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Integrity between relations in 'company_db' is upheld by foreign key constraints on 'Email' in 'Employees'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'EmployeeID' in 'Employees' of 'company_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'EmployeeID' in 'Employees' of 'company_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Integrity between relations in 'company_db' is upheld by foreign key constraints on 'DepartmentID' in 'Departments'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "A valid value in 'DepartmentID' of 'Employees' in 'company_db' must exist in the referenced table.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Referential integrity in 'company_db' is enforced through foreign keys like 'Name' in 'Departments'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Integrity between relations in 'company_db' is upheld by foreign key constraints on 'DepartmentID' in 'Departments'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Departments' of 'company_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Departments' of 'company_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "A valid value in 'DepartmentID' of 'Departments' in 'company_db' must exist in the referenced table.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Departments' of 'company_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "The foreign key 'DepartmentID' in 'Departments' of 'company_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Integrity between relations in 'company_db' is upheld by foreign key constraints on 'DepartmentID' in 'Employees'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Integrity between relations in 'company_db' is upheld by foreign key constraints on 'DepartmentID' in 'Departments'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Referential integrity in 'retail_db' is enforced through foreign keys like 'Name' in 'Customers'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'OrderDate' in 'Orders' of 'retail_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Referential integrity in 'retail_db' is enforced through foreign keys like 'OrderDate' in 'Orders'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'OrderID' in 'Orders' of 'retail_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Integrity between relations in 'retail_db' is upheld by foreign key constraints on 'CustomerID' in 'Customers'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'OrderID' in 'Orders' of 'retail_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Referential integrity in 'retail_db' is enforced through foreign keys like 'CustomerID' in 'Orders'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Referential integrity in 'retail_db' is enforced through foreign keys like 'OrderID' in 'Orders'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Referential integrity in 'retail_db' is enforced through foreign keys like 'CustomerID' in 'Orders'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "The foreign key 'CustomerID' in 'Customers' of 'retail_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'OrderDate' in 'Orders' of 'retail_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "The foreign key 'CustomerID' in 'Customers' of 'retail_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'CustomerID' in 'Customers' of 'retail_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Referential integrity in 'retail_db' is enforced through foreign keys like 'Email' in 'Customers'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Referential integrity in 'retail_db' is enforced through foreign keys like 'Name' in 'Customers'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Integrity between relations in 'college_db' is upheld by foreign key constraints on 'FacultyName' in 'Faculty'.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'DepartmentID' in 'Students' of 'college_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Referential integrity in 'college_db' is enforced through foreign keys like 'DOB' in 'Students'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'HODId' in 'Departments' of 'college_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "The foreign key 'DepartmentID' in 'Courses' of 'college_db' links data between related tables.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Referential integrity in 'college_db' is enforced through foreign keys like 'DepartmentID' in 'Students'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "A valid value in 'FacultyID' of 'Faculty' in 'college_db' must exist in the referenced table.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'FacultyName' in 'Faculty' of 'college_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'DepartmentID' in 'Departments' of 'college_db' references another table to maintain referential integrity.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Referential integrity in 'college_db' is enforced through foreign keys like 'FacultyID' in 'Faculty'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "The foreign key 'PhoneNo' in 'Students' of 'college_db' links data between related tables.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Integrity between relations in 'college_db' is upheld by foreign key constraints on 'DepartmentName' in 'Departments'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Integrity between relations in 'college_db' is upheld by foreign key constraints on 'DepartmentID' in 'Faculty'.",
+        "answer": true
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'PhoneNo' in 'Faculty' of 'college_db' references another table to maintain referential integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Foreign Key and Referential Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Referential integrity in 'college_db' is enforced through foreign keys like 'CourseCode' in 'Courses'.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The 'AssignmentID' column in 'MissionAssignment' of 'space_research_db' must not be NULL to preserve entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Missing values in 'AstronautID' of 'MissionAssignment' in 'space_research_db' could violate entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "'space_research_db' maintains entity integrity by disallowing NULLs in essential fields like 'Status' of 'Satellite'.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The 'Name' column in 'Satellite' of 'space_research_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "The 'MissionID' column in 'MissionAssignment' of 'space_research_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "The 'SatelliteID' column in 'Satellite' of 'space_research_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'Name' in 'Satellite' of 'space_research_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Entity integrity in 'space_research_db' is ensured by requiring values in 'StartDate' of 'Mission' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'Name' in 'Mission' of 'space_research_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'space_research_db' maintains entity integrity by disallowing NULLs in essential fields like 'SatelliteID' of 'Satellite'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Entity integrity in 'space_research_db' is ensured by requiring values in 'Name' of 'Satellite' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Entity integrity in 'space_research_db' is ensured by requiring values in 'AstronautID' of 'MissionAssignment' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Entity integrity in 'space_research_db' is ensured by requiring values in 'SatelliteID' of 'Satellite' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'LaunchDate' in 'Satellite' of 'space_research_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "'space_research_db' maintains entity integrity by disallowing NULLs in essential fields like 'Objective' of 'Mission'.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Missing values in 'Phone' of 'Patient' in 'hospital_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "The 'PatientID' column in 'Appointment' of 'hospital_db' must not be NULL to preserve entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Entity integrity in 'hospital_db' is ensured by requiring values in 'PatientID' of 'Appointment' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Name' in 'Doctor' of 'hospital_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'hospital_db' maintains entity integrity by disallowing NULLs in essential fields like 'PatientID' of 'Appointment'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Missing values in 'Reason' of 'Appointment' in 'hospital_db' could violate entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Missing values in 'Diagnosis' of 'MedicalRecord' in 'hospital_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Missing values in 'Name' of 'Patient' in 'hospital_db' could violate entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Missing values in 'AppointmentDate' of 'Appointment' in 'hospital_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'hospital_db' maintains entity integrity by disallowing NULLs in essential fields like 'RecordID' of 'MedicalRecord'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "The 'AppointmentDate' column in 'Appointment' of 'hospital_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Entity integrity in 'hospital_db' is ensured by requiring values in 'AppointmentID' of 'Appointment' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'Phone' in 'Patient' of 'hospital_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Entity integrity in 'hospital_db' is ensured by requiring values in 'AppointmentDate' of 'Appointment' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Entity integrity in 'hospital_db' is ensured by requiring values in 'PatientID' of 'Appointment' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "The 'Region' column in 'Farmer' of 'farming_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'farming_db' maintains entity integrity by disallowing NULLs in essential fields like 'FarmID' of 'Farm'.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Entity integrity in 'farming_db' is ensured by requiring values in 'HarvestID' of 'Harvest' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'farming_db' maintains entity integrity by disallowing NULLs in essential fields like 'Location' of 'Farm'.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "The 'FarmerID' column in 'Farm' of 'farming_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Entity integrity in 'farming_db' is ensured by requiring values in 'Phone' of 'Farmer' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "The 'FarmerID' column in 'Farm' of 'farming_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Location' in 'Farm' of 'farming_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Missing values in 'CropID' of 'Harvest' in 'farming_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Missing values in 'Location' of 'Farm' in 'farming_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Missing values in 'CropName' of 'Crop' in 'farming_db' could violate entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'farming_db' maintains entity integrity by disallowing NULLs in essential fields like 'FarmerID' of 'Farmer'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Missing values in 'AreaInAcres' of 'Farm' in 'farming_db' could violate entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Name' in 'Farmer' of 'farming_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Season' in 'Crop' of 'farming_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Departments' of 'company_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Name' in 'Departments' of 'company_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Entity integrity in 'company_db' is ensured by requiring values in 'DepartmentID' of 'Departments' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "'Email' in 'Employees' of 'company_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Missing values in 'DepartmentID' of 'Departments' in 'company_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Name' in 'Employees' of 'company_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'company_db' maintains entity integrity by disallowing NULLs in essential fields like 'DepartmentID' of 'Departments'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Missing values in 'Name' of 'Departments' in 'company_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Entity integrity in 'company_db' is ensured by requiring values in 'EmployeeID' of 'Employees' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'company_db' maintains entity integrity by disallowing NULLs in essential fields like 'DepartmentID' of 'Employees'.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Missing values in 'EmployeeID' of 'Employees' in 'company_db' could violate entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "The 'Email' column in 'Employees' of 'company_db' must not be NULL to preserve entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'company_db' maintains entity integrity by disallowing NULLs in essential fields like 'Email' of 'Employees'.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Missing values in 'EmployeeID' of 'Employees' in 'company_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'DepartmentID' in 'Departments' of 'company_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'Email' in 'Customers' of 'retail_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'retail_db' maintains entity integrity by disallowing NULLs in essential fields like 'OrderID' of 'Orders'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Entity integrity in 'retail_db' is ensured by requiring values in 'OrderID' of 'Orders' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Entity integrity in 'retail_db' is ensured by requiring values in 'Name' of 'Customers' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Entity integrity in 'retail_db' is ensured by requiring values in 'Email' of 'Customers' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Entity integrity in 'retail_db' is ensured by requiring values in 'CustomerID' of 'Customers' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "The 'OrderDate' column in 'Orders' of 'retail_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'Email' in 'Customers' of 'retail_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "'OrderDate' in 'Orders' of 'retail_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Missing values in 'OrderDate' of 'Orders' in 'retail_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Missing values in 'CustomerID' of 'Customers' in 'retail_db' could violate entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'retail_db' maintains entity integrity by disallowing NULLs in essential fields like 'Name' of 'Customers'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Entity integrity in 'retail_db' is ensured by requiring values in 'OrderID' of 'Orders' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'retail_db' maintains entity integrity by disallowing NULLs in essential fields like 'OrderID' of 'Orders'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'Name' in 'Customers' of 'retail_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'Email' in 'Faculty' of 'college_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'college_db' maintains entity integrity by disallowing NULLs in essential fields like 'StudentID' of 'Enrollments'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'CourseName' in 'Courses' of 'college_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'FacultyID' in 'Faculty' of 'college_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'DepartmentID' in 'Courses' of 'college_db' enforces NOT NULL to guarantee complete entity records.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'college_db' maintains entity integrity by disallowing NULLs in essential fields like 'HODId' of 'Departments'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "The 'DepartmentID' column in 'Departments' of 'college_db' must not be NULL to preserve entity integrity.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Entity integrity in 'college_db' is ensured by requiring values in 'StudentID' of 'Enrollments' to be non-null.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Entity integrity in 'college_db' is ensured by requiring values in 'StudentID' of 'Enrollments' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'college_db' maintains entity integrity by disallowing NULLs in essential fields like 'Credits' of 'Courses'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "'college_db' maintains entity integrity by disallowing NULLs in essential fields like 'PhoneNo' of 'Students'.",
+        "answer": true
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Entity integrity in 'college_db' is ensured by requiring values in 'Email' of 'Students' to be non-null.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "The 'StudentID' column in 'Enrollments' of 'college_db' must not be NULL to preserve entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "The 'PhoneNo' column in 'Students' of 'college_db' must not be NULL to preserve entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "NOT NULL & Entity Integrity",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Missing values in 'PhoneNo' of 'Students' in 'college_db' could violate entity integrity.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Complex integrity rules across multiple tables like 'Mission' in 'space_research_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'space_research_db' for tables such as 'MissionAssignment'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Assertions in 'space_research_db' validate inter-table conditions involving 'Mission' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Assertions in 'space_research_db' validate inter-table conditions involving 'Satellite' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "space_research_db",
+        "question": "Complex integrity rules across multiple tables like 'MissionAssignment' in 'space_research_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Assertions in 'space_research_db' validate inter-table conditions involving 'Satellite' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "'Satellite' in 'space_research_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'space_research_db' for tables such as 'Mission'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'space_research_db' for tables such as 'Mission'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "space_research_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'space_research_db' for tables such as 'Astronaut'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Complex integrity rules across multiple tables like 'MissionAssignment' in 'space_research_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'space_research_db' for tables such as 'Astronaut'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Complex integrity rules across multiple tables like 'Satellite' in 'space_research_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'space_research_db' for tables such as 'MissionAssignment'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "space_research_db",
+        "question": "Complex integrity rules across multiple tables like 'Satellite' in 'space_research_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Patient' in 'hospital_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Doctor' in 'hospital_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Complex integrity rules across multiple tables like 'Doctor' in 'hospital_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "'Doctor' in 'hospital_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "hospital_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'hospital_db' for tables such as 'Patient'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Complex integrity rules across multiple tables like 'MedicalRecord' in 'hospital_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'Patient' in 'hospital_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'hospital_db' for tables such as 'Doctor'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "'hospital_db' may define assertions to enforce rules on 'Doctor' not captured by foreign or key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "hospital_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'hospital_db' for tables such as 'Doctor'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Assertions in 'hospital_db' validate inter-table conditions involving 'Appointment' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'Appointment' in 'hospital_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Complex integrity rules across multiple tables like 'MedicalRecord' in 'hospital_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "'MedicalRecord' in 'hospital_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "hospital_db",
+        "question": "Assertions in 'hospital_db' validate inter-table conditions involving 'MedicalRecord' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'farming_db' may define assertions to enforce rules on 'Crop' not captured by foreign or key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "'Crop' in 'farming_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Assertions in 'farming_db' validate inter-table conditions involving 'Farmer' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'farming_db' for tables such as 'Crop'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "farming_db",
+        "question": "Assertions in 'farming_db' validate inter-table conditions involving 'Farm' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Farm' in 'farming_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "'Farmer' in 'farming_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Complex integrity rules across multiple tables like 'Harvest' in 'farming_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Assertions in 'farming_db' validate inter-table conditions involving 'Crop' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "farming_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'farming_db' for tables such as 'Crop'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'farming_db' for tables such as 'Harvest'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'Farmer' in 'farming_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Complex integrity rules across multiple tables like 'Crop' in 'farming_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "'farming_db' may define assertions to enforce rules on 'Crop' not captured by foreign or key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "farming_db",
+        "question": "Complex integrity rules across multiple tables like 'Crop' in 'farming_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Assertions in 'company_db' validate inter-table conditions involving 'Departments' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'company_db' for tables such as 'Employees'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Assertions in 'company_db' validate inter-table conditions involving 'Departments' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'company_db' for tables such as 'Departments'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "company_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'company_db' for tables such as 'Employees'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Complex integrity rules across multiple tables like 'Departments' in 'company_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Employees' in 'company_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Assertions in 'company_db' validate inter-table conditions involving 'Employees' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "'Employees' in 'company_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "company_db",
+        "question": "Assertions in 'company_db' validate inter-table conditions involving 'Employees' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'Departments' in 'company_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Complex integrity rules across multiple tables like 'Departments' in 'company_db' can be enforced with assertions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'company_db' may define assertions to enforce rules on 'Departments' not captured by foreign or key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "Assertions in 'company_db' validate inter-table conditions involving 'Departments' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "company_db",
+        "question": "'company_db' may define assertions to enforce rules on 'Departments' not captured by foreign or key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'retail_db' for tables such as 'Orders'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Complex integrity rules across multiple tables like 'Orders' in 'retail_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'Orders' in 'retail_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "Complex integrity rules across multiple tables like 'Customers' in 'retail_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "retail_db",
+        "question": "'retail_db' may define assertions to enforce rules on 'Orders' not captured by foreign or key constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Assertions in 'retail_db' validate inter-table conditions involving 'Customers' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Assertions in 'retail_db' validate inter-table conditions involving 'Orders' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Assertions in 'retail_db' validate inter-table conditions involving 'Orders' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'retail_db' for tables such as 'Customers'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "retail_db",
+        "question": "Assertions in 'retail_db' validate inter-table conditions involving 'Customers' beyond standard constraints.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Complex integrity rules across multiple tables like 'Customers' in 'retail_db' can be enforced with assertions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Assertions in 'retail_db' validate inter-table conditions involving 'Customers' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'retail_db' for tables such as 'Orders'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "'retail_db' may define assertions to enforce rules on 'Orders' not captured by foreign or key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "retail_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'retail_db' for tables such as 'Customers'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'college_db' may define assertions to enforce rules on 'Courses' not captured by foreign or key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'college_db' for tables such as 'Students'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'Faculty' in 'college_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "Assertions in 'college_db' validate inter-table conditions involving 'Faculty' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "easy",
+        "db_name": "college_db",
+        "question": "'college_db' may define assertions to enforce rules on 'Enrollments' not captured by foreign or key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Courses' in 'college_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'college_db' may define assertions to enforce rules on 'Faculty' not captured by foreign or key constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Departments' in 'college_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'college_db' for tables such as 'Departments'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "medium",
+        "db_name": "college_db",
+        "question": "'Enrollments' in 'college_db' can be subject to assertions to validate custom consistency conditions.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'college_db' for tables such as 'Faculty'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Assertions in 'college_db' validate inter-table conditions involving 'Enrollments' beyond standard constraints.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'college_db' for tables such as 'Courses'.",
+        "answer": false
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Assertion constraints ensure business logic holds in databases like 'college_db' for tables such as 'Faculty'.",
+        "answer": true
+    },
+    {
+        "topic": "Assertion Constraints",
+        "difficulty": "hard",
+        "db_name": "college_db",
+        "question": "Complex integrity rules across multiple tables like 'Courses' in 'college_db' can be enforced with assertions.",
+        "answer": true
+    }
+]
